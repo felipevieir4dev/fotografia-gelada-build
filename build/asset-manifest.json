@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d164cb0f.css",
+    "main.js": "/static/js/main.0e231739.js",
+    "static/media/nature12.avif": "/static/media/nature12.b199967ab6a24d17bf01.avif",
+    "static/media/nature18.avif": "/static/media/nature18.540bf45e5436dd30fd0e.avif",
+    "static/media/nature11.avif": "/static/media/nature11.644ccf07bbc592f6cefb.avif",
+    "static/media/nature17.avif": "/static/media/nature17.f16492363d80d2ea7d78.avif",
+    "static/media/nature13.avif": "/static/media/nature13.9a2db738acea1ea61daa.avif",
+    "static/media/nature16.avif": "/static/media/nature16.3b7788937c52732d54ff.avif",
+    "static/media/nature14.avif": "/static/media/nature14.162048927d1102670c10.avif",
+    "static/media/nature10.avif": "/static/media/nature10.b1d87b32a2ee097537d0.avif",
+    "static/media/nature15.avif": "/static/media/nature15.c0c9627ad1dafaa8d95b.avif",
+    "static/media/youtube.svg": "/static/media/youtube.2160f6f415709c175ba60f29f463e3bb.svg",
+    "static/media/coracao-vermelho.svg": "/static/media/coracao-vermelho.621d975d909bee6751eabad1f5b9be51.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c52a2f7ec1efacee37035b4d1b0d6077.svg",
+    "static/media/coracao.svg": "/static/media/coracao.3035c272f55bded42b7b7344b9c99e17.svg",
+    "index.html": "/index.html",
+    "static/media/tiktok.svg": "/static/media/tiktok.a085e43b3c3c9e6f3431603eb2f1c54b.svg",
+    "static/media/x.svg": "/static/media/x.5a3c19e428f19ccdc86c6db1d6ba4f13.svg",
+    "static/media/chat.svg": "/static/media/chat.8aed006986bac3b0f332641d872db36f.svg",
+    "main.d164cb0f.css.map": "/static/css/main.d164cb0f.css.map",
+    "main.0e231739.js.map": "/static/js/main.0e231739.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d164cb0f.css",
+    "static/js/main.0e231739.js"
+  ]
+}
